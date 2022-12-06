@@ -32,6 +32,11 @@ class KosarModel{
     }
 
     getOsszDb(){
+        let db=0;
+        this.#kosar.forEach((adat)=>{
+            db+=adat.db
+        })
+        this.#db=db
         return this.#db;
     }
 

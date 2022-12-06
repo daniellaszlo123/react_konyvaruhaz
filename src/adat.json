@@ -1,0 +1,25 @@
+{
+  "konyveim":[
+    {
+      "id":1,
+      "cim":"Malveil",
+      "szerzo":"Robert Merle",
+      "ar":1111,
+      "db":1
+    },
+    {
+      "id":2,
+      "cim":"Védett férfiak",
+      "szerzo":"Robert Merle",
+      "ar":2111,
+      "db":1
+    },
+    {
+      "id":3,
+      "cim":"Állati elmék",
+      "szerzo":"Robert Merle",
+      "ar":3112,
+      "db":1
+    }
+  ]
+}

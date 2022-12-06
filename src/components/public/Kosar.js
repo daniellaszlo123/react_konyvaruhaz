@@ -1,4 +1,3 @@
-import './Kosar.css'
 function Kosar(props) {
 
     function kosarTorol() {
